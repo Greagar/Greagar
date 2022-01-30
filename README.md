@@ -1,6 +1,6 @@
 ## Hi, I’m @Greagar 👋
 
-### I like
+### I work with 
 
 - Networks
 - Coding 
